@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55180034907",
+    "project_id": "mkvpy-diary",
+    "storage_bucket": "mkvpy-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55180034907:android:c217e95b4e2c062d29907e",
+        "android_client_info": {
+          "package_name": "com.example.notesapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55180034907-2ua1h635icd3qu50jcks4hihbsf706g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BjfIAK3iSA7KXLPcMy0zcO7AQhYBsYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55180034907-2ua1h635icd3qu50jcks4hihbsf706g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
