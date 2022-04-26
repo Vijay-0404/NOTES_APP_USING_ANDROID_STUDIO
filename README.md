@@ -21,27 +21,23 @@ User can also recover the password if the user forgot the password by clicking o
 
 Here, you can add as many notes you want by clicking on +(plus) icon and clicking on save icon. 
 
-![image](https://user-images.githubusercontent.com/64765400/111020778-22078180-837d-11eb-81fe-ab4f91862de5.png)
 
 
 You will get the detail of desired note by clicking on that note simply. Here, we can also edit the note if desired. 
 
 When the user click on menu icon which is shown by three dots at the right side of every note then you get the two functions(edit and delete)- 
 
-![image](https://user-images.githubusercontent.com/64765400/111020786-2e8bda00-837d-11eb-868f-a5c3160d1a83.png)
 
 
 When you click on delete then the particular note is deleted.
 
 If you click on edit then you will move to other screen for editing of note.
 
-![image](https://user-images.githubusercontent.com/64765400/111020797-3cd9f600-837d-11eb-9d3d-8af98bdea6da.png)
 
 
 
 If user want to log out from the application then click on three dot menu on the right corner of Action Bar of the notes application-
 
-![image](https://user-images.githubusercontent.com/64765400/111020816-4f542f80-837d-11eb-86ea-5b7713d12ccc.png)
 
 
 After this, you will be logged out and directed to the login screen. 
