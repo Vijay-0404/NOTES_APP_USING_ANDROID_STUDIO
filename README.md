@@ -21,8 +21,6 @@ User can also recover the password if the user forgot the password by clicking o
 
 Here, you can add as many notes you want by clicking on +(plus) icon and clicking on save icon. 
 
-![image](https://user-images.githubusercontent.com/64765400/111020771-14ea9280-837d-11eb-8aad-53cf6dec83a3.png)
-
 ![image](https://user-images.githubusercontent.com/64765400/111020778-22078180-837d-11eb-81fe-ab4f91862de5.png)
 
 
