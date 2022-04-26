@@ -14,9 +14,6 @@ Enter your Email and password and login if you have already registered. Otherwis
 
 User will got the email on the registered email and then verify the email first to use the application. After verification, simply login with your email and password. Then, you will get the below screen- 
 
-![image](https://user-images.githubusercontent.com/64765400/111020754-fb494b00-837c-11eb-94d5-e830f4e54feb.png)
-
-
 User can also recover the password if the user forgot the password by clicking on forgot password? on the login screen. After clicking, user will be directed to below screen. Here, user can enter the registered mail and easily recover the password using Email-
 
 ![image](https://user-images.githubusercontent.com/64765400/111020763-0c925780-837d-11eb-8485-8b3f0c1da96f.png)
